@@ -1,0 +1,9 @@
+== README
+
+* Ruby version: 2.3.1
+
+* Rails version: 4.2.6
+
+Using Semantic UI
+
+Available in: https://github.com/doabit/semantic-ui-sass
